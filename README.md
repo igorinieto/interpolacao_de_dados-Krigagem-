@@ -1,4 +1,4 @@
-# Interpolação de dados utilizando Krigagem
+# Interpolação de dados utilizando Krigagem no R
 
 ## **Descrição**
 Este projeto tem como objetivo realizar a interpolação de certas características do solo em determinadas regiões do Brasil e plotar os resultados através de mapas afim de saber a distribuição de determinada característica do solo em determinada região.
