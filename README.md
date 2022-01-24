@@ -3,6 +3,9 @@
 ## **Descrição**
 Este projeto tem como objetivo realizar a interpolação de certas características do solo em determinadas regiões do Brasil e plotar os resultados através de mapas afim de saber a distribuição de determinada característica do solo em determinada região.
 
+Mas, o que é interpolação de dados?
+Interpolação espacial é o processo de utilização de pontos com valores conhecidos para estimar os valores em outros pontos desconhecidos.
+
 ## **Base de dados**
 Neste projeto foi utilizado a [base de dados](http://geoinfo.cnps.embrapa.br/layers/geonode%3Aperfis_pronasolos_20201202v2/metadata_read) disponibilizada gratuitamente pelo Programa Nacional de Levantamento e Interpretação de Solos do Brasil([PronaSolos](https://www.embrapa.br/pronasolos)), contendo informações das características do solo do Brasil.
 
